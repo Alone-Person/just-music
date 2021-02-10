@@ -1,0 +1,7 @@
+{
+  "name": "Just Music",
+  "description": "🤖 Discord Music Bot built with discord.js",
+  "repository": "https://github.com/Alone-Person",
+  "logo": "https://cdn.discordapp.com/avatars/448490152180842496/dda7febb086e4660b26ccfbf541bfbbb.jpg",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
